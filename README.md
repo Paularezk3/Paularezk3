@@ -4,6 +4,8 @@ I'm a **Computer Engineer Graduate** with a passion for **building amazing apps 
 
 With my journey starting from **motion graphics** to **backend databases**, I’ve built solid skills in **OOP principles**, **REST API design**, and **state management**, all while learning the hard way to write clean and maintainable code.
 
+
+
 ## 🌱 Current Focus
 I’m currently working on:
 - 🌟 Building mobile apps and web applications using **Flutter**.
