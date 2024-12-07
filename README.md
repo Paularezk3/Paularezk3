@@ -1,36 +1,47 @@
 # Hi there, I'm Paula Rezk 👋
 ### 🚀 Flutter Developer | Aspiring Full-Stack Developer
-I'm a **Computer Engineer Graduate** with a passion for **building amazing apps with Flutter**. From mobile apps to websites and even Windows apps, I love creating seamless experiences using my diverse programming background.
+I'm a **dedicated Flutter Developer** with a strong foundation in **full-stack development** and a passion for crafting efficient and scalable applications. My journey as a **Computer Engineer Graduate** and my hands-on experience with real-world projects have shaped my skills in **mobile app development**, **backend integration**, and **clean code principles**.
 
-With my journey starting from **motion graphics** to **backend databases**, I’ve built solid skills in **OOP principles**, **REST API design**, and **state management**, all while learning the hard way to write clean and maintainable code.
+💡 Currently, I’m focused on building **mobile apps**, **web apps**, and **desktop applications** using **Flutter** while improving my backend capabilities to become a full-stack developer.
 
+## 💼 Work Experience
+### Flutter Developer & Freelance Software Engineer  
+- Developed a **comprehensive inventory and financial management app** for a car spare parts business using **Flutter**, **SQL**, and **PHP**, leading to an **80% reduction in manual accounting tasks**.  
+- Strengthened app security by implementing **HTTPS** and **AES encryption**.  
+- Delivered a **custom web app for a family recycling business** with tight deadlines.  
 
+### Full-Stack Developer & Automation Specialist  
+- Automated a real estate company’s Facebook marketing using Python, saving **20 hours weekly**.  
+- Designed and optimized databases (SQL and Firebase) for improved performance and reliability.
 
-## 🌱 Current Focus
-I’m currently working on:
-- 🌟 Building mobile apps and web applications using **Flutter**.
-- 🔧 Enhancing my **backend skills** to become a full-stack developer.
-- 💼 Seeking opportunities to work on exciting projects or land a Flutter development role!
 
 ## 🏆 Projects I'm Proud Of
-- **Car Spare Parts Inventory & Accounting App**  
-  - Built a complete **Flutter app** connected to a **Hostinger SQL database** via **PHP**.
-  - Features include **customer balance tracking**, **inventory management**, and **sales analytics**.
-  - Gained expertise in **state management** using **GetX**, **Provider**, and **Riverpod**, while applying **clean architecture** principles.
+- **[Elite Spare Parts Management System](https://app.elitespareparts.net/)**  
+  A feature-rich **Flutter app** connected to a **Hostinger SQL database** with PHP for backend.  
+  Features: Customer balance tracking, inventory management, sales analytics, and profit metrics.
+
+- **[El Masria Website](https://almasria.net/)**  
+  Developed and launched a web presence for a spare parts business under strict deadlines using **Flutter Web**.  
 
 > Check out more of my projects [here](https://github.com/Paularezk3?tab=repositories) 📂
 
-## 🛠️ My Tech Toolbox
-- **Languages:** Dart (Flutter), Python, Java, C, PHP, JavaScript (React).  
-- **Frameworks & Libraries:** Flutter, GetX, Riverpod, Provider.  
-- **Databases:** Firestore, Firebase, SQL (Hostinger).  
-- **Tools:** Adobe Photoshop, Illustrator, After Effects, Premiere Pro.  
-- **Other Skills:** REST API Design, OOP, SOLID principles, clean code practices.
+## 🛠️ Technical Skills
+- **Languages & Tools:** Dart (Flutter), Python, SQL, PHP, GitHub, Firebase.  
+- **Frameworks & Platforms:** Firebase, Hostinger, Selenium, Riverpod, GetX, Provider, REST APIs.  
+- **Database Management:** SQL, Firestore (NoSQL), Database Optimization.  
+- **Software Development Practices:** Agile (Scrum), OOP, SOLID principles, CI/CD.  
+- **Other Tools:** Docker, Visual Studio Code, Adobe Illustrator, Figma, ClickUp.  
+
+## 🏅 Achievements
+- Automated marketing workflows, saving 20 hours weekly, for a real estate company using Python.  
+- Successfully delivered apps and websites for multiple family businesses, leading to **2 million EGP in sales**.  
+- Enhanced leadership and team management skills as the **graduation project leader**, utilizing Agile Scrum methodologies.
 
 ## 🎉 Fun Facts
-- I was a photographer at 13 years old and mastered Adobe's creative suite during my teens.
-- I once worked as a **motion graphic designer** before falling in love with coding.  
-- I’m a car enthusiast who feels like I’m born to inhale drifts instead of oxygen! 🚗💨
+- I started as a **photographer at 13 years old** and mastered Adobe's creative tools (Photoshop, After Effects, etc.).  
+- I'm a **car enthusiast** who feels like I was born to inhale drifts instead of oxygen! 🚗💨  
+- I once worked as a **motion graphic designer**, blending my creativity with technical skills.
+
 
 ## 🤝 Let's Connect
 I'm open to new opportunities and love connecting with like-minded people.  
@@ -38,9 +49,6 @@ I'm open to new opportunities and love connecting with like-minded people.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Paularezk)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paularezk3)  
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paularezk3@gmail.com)
-
-## 📊 GitHub Stats
-![Paula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paularezk3&show_icons=true&theme=radical)
 
 ## 🛠️ Technologies I Use
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
