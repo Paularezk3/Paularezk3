@@ -59,6 +59,9 @@ I'm open to new opportunities and love connecting with like-minded people.
 ## 💻 What I’m Working On
 [![Workboard](https://activity-graph.herokuapp.com/graph?username=Paularezk3&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+##Other
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Paularezk3)](https://git.io/streak-stats)
 <!--
 **Paularezk3/Paularezk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
