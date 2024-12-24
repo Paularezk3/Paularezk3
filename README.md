@@ -57,7 +57,7 @@ I'm open to new opportunities and love connecting with like-minded people.
 ![GetX](https://img.shields.io/badge/GetX-68B8FF?style=for-the-badge)
 
 ## 💻 What I’m Working On
-[![Workboard](https://activity-graph.herokuapp.com/graph?username=Paularezk3&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Workboard](https://github-readme-activity-graph.vercel.app/graph?username=Paularezk3&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## Other
